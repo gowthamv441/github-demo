@@ -16,4 +16,11 @@ git status  => to view the status of the working directory
 git add <file-name>
 	=> to add the file to the staging area 
 
+git commit -m "<commit-message>"
+	=> to commit the file
+
+git push origin master 
+	=> to push the working dir to the master branch
+	=> origin represents the github copy of the repo
+
 
