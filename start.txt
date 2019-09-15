@@ -1,1 +1,19 @@
 git quick start
+
+
+to register
+
+git config --global user.name "<username>"
+git config --global user.email "<mail>"
+
+to verify
+
+git config --global --list
+
+
+git status  => to view the status of the working directory
+
+git add <file-name>
+	=> to add the file to the staging area 
+
+
